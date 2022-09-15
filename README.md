@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://www.webpaketal.com/images/urun/2487webmaster-webpaketal.gif">
 
-- 🌱 I’m currently learning **ASP.Net Core**
+- 🌱 I’m currently learning **ASP.NET Core**
 
 - 💬 Ask me about **SQL ,Html , Css**
 

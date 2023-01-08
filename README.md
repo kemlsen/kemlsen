@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
-- 💬 Ask me about **SQL ,Html , Css , Angular**
+- 💬 Ask me about **SQL, Angular**
 
 - 📫 How to reach me **kemlsen96@gmail.com**
 

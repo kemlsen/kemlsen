@@ -2,9 +2,9 @@
 <h3 align="center">A passionate software developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://www.webpaketal.com/images/urun/2487webmaster-webpaketal.gif">
 
-- 🌱 I’m currently learning **ASP.NET Core, Angular**
+- 🌱 I’m currently learning **RabbitMQ**
 
-- 💬 Ask me about **SQL**
+- 💬 Ask me about **ASP.NET Core, Angular, SQL**
 
 - 📫 How to reach me **kemlsen96@gmail.com**
 

@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kemal</h1>
 <img align="right" alt="Coding" width="400" src="https://www.webpaketal.com/images/urun/2487webmaster-webpaketal.gif">
 
-- 🌱 I’m currently learning **Docker, Jenkins**
-
-- 💬 Ask me about **ASP.NET Core, Angular, SQL**
-
 - 📫 How to reach me **kemlsen96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
